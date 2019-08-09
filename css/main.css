@@ -8,7 +8,7 @@ a {
 
 html {
   background-color: #3F51B5;
-  background-image: linear-gradient(to bottom right, #F44336, #FF5722);
+  background-image: linear-gradient(to bottom right, rgb(68, 59, 58), rgb(17, 7, 5));
   color: #fff;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -108,7 +108,7 @@ html {
 }
 
 .job {
-  color: #3F51B5;
+  color: #FFF;
   font-size: 0.9rem;
 }
 
